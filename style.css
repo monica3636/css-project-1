@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.container{
+    border: 3px solid rgb(250, 234, 234);
+    width: 1000px;
+    height: 500px;   
+}
+.navbar{
+    font-size: 30px;
+    font-weight:bolder;
+    border: 3px solid rgb(250, 234, 234);
+    padding: 30px;
+    box-shadow: 2px 2px 2000px ;
+    background-color: #FFFFFF;    
+}
+.li{
+    color: #00A5EC;
+}
+.icon{
+    border-radius: 50%;
+    border: 3px solid ;
+    height: 40px;
+    width: 40px;
+    background-color: #00A5EC;
+    margin-left: 700px; 
+    position: relative; 
+    display: inline-block;  
+}
+.pluse{
+    font-size: 30px;
+    color: red;
+    color: white;
+    position: absolute;
+    left: 11px;
+    top: 2px;
+    
+}
+.text{
+    font-size: 20px;
+    font-style:normal;
+    font-weight: bolder;
+    text-align: end;
+}
+.text{ 
+    color: black;
+    padding: 100px;   
+}
+
+
+.box1{
+    color: #00A5EC;
+    border: 2px solid #EDEDED;
+    width: 352px;
+    height: 360px;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 50px;
+    margin-left: 50px;   
+}
+.input{
+    text-decoration: line-through;
+    color: #EDEDED;
+}
+.box2{
+    color: #00A5EC;
+    border: 2px solid #EDEDED;
+    width: 352px;
+    height: 360px;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 50px;
+    margin-left: 50px;   
+}
+.box3{
+    color: #00A5EC;
+    border: 2px solid #EDEDED;
+    width: 352px;
+    height: 360px;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 50px;
+    margin-left: 50px;   
+}
+.box4{
+    color: #00A5EC;
+    border: 2px solid #EDEDED;
+    width: 352px;
+    height: 360px;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 50px;
+    margin-left: 50px;   
+}
+.box5{
+    color: #00A5EC;
+    border: 2px solid #EDEDED;
+    width: 352px;
+    height: 360px;
+    border: 1px solid #EDEDED;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-left: 20px;
+    margin-top: 50px;
+    margin-left: 50px;   
+}
+.parent{
+    filter: blur(8px);
+}
+.add-new-task{
+    width: 500px;
+    height: 250px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px #67676729;
+    border: 1px solid #EDEDED;
+    display: inline-block;
+    
+}
+
