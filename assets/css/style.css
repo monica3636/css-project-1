@@ -174,7 +174,8 @@ body {
     height: 80px;
     border-radius: 50%;
     background-color: #424242;
-    color: #FFFFFF;  
+    color: #FFFFFF; 
+    text-decoration: none; 
 }
 .icon-text{
     font-size: 20px;
